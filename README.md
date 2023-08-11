@@ -1,2 +1,2 @@
 # P.I.M
-banco de dados (incompleto)
+levantamento de requisitos para uma empresa
