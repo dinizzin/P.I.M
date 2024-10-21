@@ -1,4 +1,4 @@
--- Guilherme Diniz
+
 create database PIM; -- criando
 use PIM; -- usando
 
@@ -41,7 +41,6 @@ alter table funcionario
     
 -- -----------------------------------------------------------------------------------------------
     
- -- Lucas Aquino 
 	-- Planilha de testes
     
 	-- Populando a tabela "funcionario"
@@ -124,7 +123,6 @@ VALUES (10, 'José Oliveira', 'Vendas', 'Vendedor', '1988-03-25', '2021-05-10', 
 
 -- -----------------------------------------------------------------------------------------------
 
--- Guilherme Diniz
 -- Selecionando tudo para ver se deu certo
 select * from folha;
 select * from funcionario;
